@@ -10,10 +10,11 @@ header
    color: brown;
 }
 
-#cabecera
+#container
 {
    display: flex;
-   flex-direction: row;
+   flex-direction: column;
+   text-align: left;
    padding: 20px;
    color: chocolate;
    font-weight: bold;
