@@ -4,3 +4,18 @@ body{
     font-weight: bold;
 }
 
+#cabecera 
+{
+    color: burlywood;
+    padding: 10px;
+    padding: 10px;
+}
+
+#container
+{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    padding: 20px;   
+}
+
