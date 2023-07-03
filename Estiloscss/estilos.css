@@ -9,3 +9,12 @@ header
 {
    color: brown;
 }
+
+#cabecera
+{
+   display: flex;
+   flex-direction: row;
+   padding: 20px;
+   color: chocolate;
+   font-weight: bold;
+}
