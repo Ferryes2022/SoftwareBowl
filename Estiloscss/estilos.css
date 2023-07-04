@@ -19,3 +19,11 @@ header
    color: chocolate;
    font-weight: bold;
 }
+
+#cabecera
+{
+   background-color: antiquewhite;
+   border-radius: 5;
+   border-color: blue;
+   font-weight: bolder;
+}
