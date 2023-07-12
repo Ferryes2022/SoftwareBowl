@@ -8,16 +8,26 @@ body
    
 }
 
-div{
-   background-color: aliceblue;
-}
-
 h1
 {
    color: black;
    font-weight: bold;
 }
-div{
+
+#container
+{
    background-color: chocolate;
+}
+
+#Contacto
+{
+   background-color: blue;
+   
+   
+}
+
+#cabecera
+{
+   background-color: brown;
 }
 
